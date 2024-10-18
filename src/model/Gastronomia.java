@@ -7,7 +7,7 @@ package model;
 import java.time.LocalDate;
 
 /**
- * b
+ *
  * @author juamp
  */
 public class Gastronomia extends Servicio {
