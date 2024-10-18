@@ -3,7 +3,8 @@
 ---
 
 ## Alumno
-**Nombre del alumno**: [Tu Nombre Aquí]
+**Nombre del alumno**: [Leiva Juan Pablo
+]
 
 ## 📄 Descripción del Proyecto
 
