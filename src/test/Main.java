@@ -84,7 +84,7 @@ public class Main {
             // 4
             System.out.println("4-1");
             try {
-                for (Servicio s : sistema.traerServicio(true)) {
+                for (Servicio s : sistema2.traerServicio(true)) {
                     System.out.println(s);
                 }
             } catch (Exception e) {
@@ -93,7 +93,7 @@ public class Main {
 
             System.out.println("4-2");
             try {
-                for (Servicio s : sistema.traerServicio(true, LocalDate.of(2020, 10, 28))) {
+                for (Servicio s : sistema2.traerServicio(true, LocalDate.of(2020, 10, 28))) {
                     System.out.println(s);
                 }
             } catch (Exception e) {
